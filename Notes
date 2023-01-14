@@ -1,0 +1,41 @@
+                Backend for E-commerce
+1   create package.json - npm init
+2   create nodemodules - install express - npm i express
+3   create index.js file
+
+    -------on indexfile--------
+4   import express inside the index.js
+5   create application 
+6   set up port number
+7   use json parser for server application
+
+8   install cors - npm i cors
+9   import cors
+10  using cors specify origin to the server
+
+11  api fetch - fakestoreapi/products
+12  create DB and collection in mongoDB
+13 install mongoose to establish connection b/w server and mongoDB 
+        npm i mongoose
+
+14  create a folder - Services
+        create file - db.js and dataService.js
+15  In db.js - import mongoose to establish connection
+16  define connection string
+17  create model and schema 
+18  export model (Product) 
+
+19  Resolving API request in index.js
+20  implement logic in dataService
+21  import db in dataService,sreate a function and  export it
+22  Resolving API request in index.js (to implement logic in dataService)
+        index+dataService
+        Node + mongoDB connection successfull
+
+23  final step
+    API to get all products
+
+
+
+
+

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6fe39fda-054d-42a1-83a5-7a68add6b3ae",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3005/all-products",
+    "url": "http://localhost:3005/getwishlist",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-01-03T07:29:45.582Z",
+    "modified": "2023-01-08T16:57:45.267Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
